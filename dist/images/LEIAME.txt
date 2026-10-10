@@ -1,0 +1,2 @@
+Coloque aqui as fotos da barbearia (sem elas, o site usa um degradê escuro com laranja):
+hero.jpg (banner, ~1920x900) | galeria-1.jpg (vertical/grande) | galeria-2.jpg | galeria-3.jpg
